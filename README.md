@@ -43,7 +43,7 @@ FG Simple Brown:
 ![Theme_Simple_Brown](screenshots/Theme_FG_Simple_Brown.png)
 
 FG Simple Grey:
-![Theme_Simple_Grey](screenshots/Theme_FG_Simple_Gray.png)
+![Theme_Simple_Grey](screenshots/Theme_FG_Simple_Grey.png)
 
 FG Dark:
 ![Theme_Dark](screenshots/Theme_FG_Dark.png)
