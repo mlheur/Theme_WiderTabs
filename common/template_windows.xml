@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<template name="tabs_charsheet">
+		<buttongroup_tabs name="tabs">
+			<anchored width="24" height="92">
+				<top offset="50" />
+				<right offset="0" />
+			</anchored>
+		</buttongroup_tabs>
+	</template>
+
+	<!-- Tab frames and helper icons -->
+	<framedef name="tabs">
+		<bitmap file="graphics/tabs/tabs.png" />
+		<topleft rect="0,0,24,69" />
+		<left rect="0,69,24,134" />
+		<bottomleft rect="0,203,24,23" />
+	</framedef>
+
+</root>

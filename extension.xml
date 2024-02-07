@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0">
+	<announcement text="Wider Tabs (C) 2024 mlheur@gmail.com" font="emotefont" icon="publicvisionon" />
+	<properties>
+		<name>Theme: Wider Tabs</name>
+		<version>1</version>
+		<author>mlheur</author>
+		<description>Wider Tabs</description>
+		<ruleset><name>5E</name></ruleset>
+		<loadorder>199</loadorder>
+	</properties>
+	<base>
+		<includefile source="common/template_windows.xml" />
+	</base>
+</root>
